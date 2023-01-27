@@ -1,2 +1,2 @@
 #!/bin/bash
-char Mystr[] = ""Programming is like building a multilingual puzzle";
+gcc $CFILE char Mystr[] = ""Programming is like building a multilingual puzzle";
