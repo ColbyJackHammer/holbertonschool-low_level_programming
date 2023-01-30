@@ -4,8 +4,8 @@
 
 /**
  * main - assign a random number to the variable n each time it is executed
- * the string last digit of n
- * return: 0
+ * The string Last digit of n
+ * Return: 0
  */
 
 
