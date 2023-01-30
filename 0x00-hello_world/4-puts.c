@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE char Mystr[] = ""Programming is like building a multilingual puzzle";
+gcc $CFILE char puts("\"Programming is like building a multilingual puzzle\n0"); 
