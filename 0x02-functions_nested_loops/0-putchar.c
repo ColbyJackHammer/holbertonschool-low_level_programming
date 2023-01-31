@@ -7,7 +7,10 @@
  *return: 0
  */
 
+int main()
+{
 int _putchar(str "_putchar")
 {
 return: 0;
-}
+}}
+
