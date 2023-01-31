@@ -11,7 +11,7 @@ int main(void)
 int n = 0;
 char str_ptc[1] = "_putchar";
 
-while (n < 9)
+while (n <1)
 {
 _putchar(str_ptc[n]);
 n += 1;
